@@ -146,19 +146,6 @@ Alguns exemplos:
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=icaroteodoro\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icaroteodoro\&layout=compact\&hide_border=true)
-
-</div>
-
-
-
----
 
 ## 🎯 Atualmente
 
