@@ -43,10 +43,17 @@ Também desenvolvo aplicações **mobile com React Native e Expo**, o que me per
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Ferramentas
+### Mensageria
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+### DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,8 +68,8 @@ APIs             REST • JWT • WebSockets • Integrações
 Arquitetura      MVC • APIs REST • Microsserviços
 Mensageria       RabbitMQ
 Mobile           React Native • Expo • TypeScript
-Databases        PostgreSQL • MySQL
-DevOps           Docker • CI/CD • GitHub Actions • Linux
+Databases        PostgreSQL • MySQL • MongoDB • Redis
+DevOps & Cloud   Docker • AWS • CI/CD • GitHub Actions • Linux
 ```
 
 ---
@@ -105,7 +112,8 @@ public class Icaro {
         "Spring Boot",
         "React Native",
         "PostgreSQL",
-        "Docker"
+        "Docker",
+        "AWS"
     };
 
     String learning = "Software Architecture & Distributed Systems";
